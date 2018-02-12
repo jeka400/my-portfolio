@@ -1,0 +1,60 @@
+nav{
+    font-size: 25px;
+}
+
+.main{
+    
+    background-attachment: scroll;
+    background-position: initial;
+    
+     background: url("597.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 6vw;
+}
+
+iframe{
+    border: none;
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 95%;
+    
+}
+
+@media only screen and (max-width: 900px) {
+    iframe {
+        width: 100%;
+    }
+    nav{
+    font-size: 18px;
+    }
+    .main {
+        background-color: darkgrey;
+    }
+}
+
+
+#footer{
+    background-color: black;
+    color: white;
+}
+
+.picFooter{
+    width: 50px;
+    height: 50px;
+    border: 3px solid white;
+    margin: 20px;
+    
+}
+
+a{
+    
+}
+
